@@ -10,6 +10,6 @@ CodePath iOS Projects Organized in one repository
 # Flix App
 [Flix App Github Repo](https://github.com/KhuziamaR/flixApp)
 
-# Yelpy App
-[Yelpy App Github Repo](https://github.com/KhuziamaR/YelpyApp)
+<!-- # Yelpy App
+[Yelpy App Github Repo](https://github.com/KhuziamaR/YelpyApp) -->
 
